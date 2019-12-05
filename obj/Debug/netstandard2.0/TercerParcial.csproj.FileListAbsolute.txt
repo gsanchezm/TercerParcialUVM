@@ -1,0 +1,9 @@
+C:\Users\gilsa\source\repos\TercerParcial\bin\Debug\netstandard2.0\TercerParcial.deps.json
+C:\Users\gilsa\source\repos\TercerParcial\bin\Debug\netstandard2.0\TercerParcial.dll
+C:\Users\gilsa\source\repos\TercerParcial\bin\Debug\netstandard2.0\TercerParcial.pdb
+C:\Users\gilsa\source\repos\TercerParcial\obj\Debug\netstandard2.0\TercerParcial.csprojAssemblyReference.cache
+C:\Users\gilsa\source\repos\TercerParcial\obj\Debug\netstandard2.0\TercerParcial.csproj.CoreCompileInputs.cache
+C:\Users\gilsa\source\repos\TercerParcial\obj\Debug\netstandard2.0\TercerParcial.AssemblyInfoInputs.cache
+C:\Users\gilsa\source\repos\TercerParcial\obj\Debug\netstandard2.0\TercerParcial.AssemblyInfo.cs
+C:\Users\gilsa\source\repos\TercerParcial\obj\Debug\netstandard2.0\TercerParcial.dll
+C:\Users\gilsa\source\repos\TercerParcial\obj\Debug\netstandard2.0\TercerParcial.pdb
